@@ -1,6 +1,6 @@
 # Web_04_spring
 
-保存位置：D:\work_space\IT(company) person\IT\project\03_demo\java\jdk 1.8\64 bit\eclipse\2020-06 (4.16.0)\Java EE\Web_03_SSM
+保存位置：D:\work_space\IT(company) person\IT\project\03_demo\java\jdk 1.8\64 bit\eclipse\2020-06 (4.16.0)\Java EE\Web_04_spring
 
 Maven嘅JavaWeb
 
